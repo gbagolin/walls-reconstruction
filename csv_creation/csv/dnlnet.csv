@@ -1,0 +1,5 @@
+,checkpoint_link,checkpoint_file,config_file
+0,https://download.openmmlab.com/mmsegmentation/v0.5/dnlnet/dnl_r50-d8_512x512_80k_ade20k/dnl_r50-d8_512x512_80k_ade20k_20200826_183354-1cf6e0c1.pth,dnl_r50-d8_512x512_80k_ade20k_20200826_183354-1cf6e0c1.pth,configs/dnlnet/dnl_r50-d8_512x512_80k_ade20k.py
+1,https://download.openmmlab.com/mmsegmentation/v0.5/dnlnet/dnl_r101-d8_512x512_80k_ade20k/dnl_r101-d8_512x512_80k_ade20k_20200826_183354-d820d6ea.pth,dnl_r101-d8_512x512_80k_ade20k_20200826_183354-d820d6ea.pth,configs/dnlnet/dnl_r101-d8_512x512_80k_ade20k.py
+2,https://download.openmmlab.com/mmsegmentation/v0.5/dnlnet/dnl_r50-d8_512x512_160k_ade20k/dnl_r50-d8_512x512_160k_ade20k_20200826_183350-37837798.pth,dnl_r50-d8_512x512_160k_ade20k_20200826_183350-37837798.pth,configs/dnlnet/dnl_r50-d8_512x512_160k_ade20k.py
+3,https://download.openmmlab.com/mmsegmentation/v0.5/dnlnet/dnl_r101-d8_512x512_160k_ade20k/dnl_r101-d8_512x512_160k_ade20k_20200826_183350-ed522c61.pth,dnl_r101-d8_512x512_160k_ade20k_20200826_183350-ed522c61.pth,configs/dnlnet/dnl_r101-d8_512x512_160k_ade20k.py

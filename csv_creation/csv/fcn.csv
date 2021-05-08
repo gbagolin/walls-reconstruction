@@ -1,0 +1,5 @@
+,checkpoint_link,checkpoint_file,config_file
+0,https://download.openmmlab.com/mmsegmentation/v0.5/fcn/fcn_r50-d8_512x512_80k_ade20k/fcn_r50-d8_512x512_80k_ade20k_20200614_144016-f8ac5082.pth,fcn_r50-d8_512x512_80k_ade20k_20200614_144016-f8ac5082.pth,configs/fcn/fcn_r50-d8_512x512_80k_ade20k.py
+1,https://download.openmmlab.com/mmsegmentation/v0.5/fcn/fcn_r101-d8_512x512_80k_ade20k/fcn_r101-d8_512x512_80k_ade20k_20200615_014143-bc1809f7.pth,fcn_r101-d8_512x512_80k_ade20k_20200615_014143-bc1809f7.pth,configs/fcn/fcn_r101-d8_512x512_80k_ade20k.py
+2,https://download.openmmlab.com/mmsegmentation/v0.5/fcn/fcn_r50-d8_512x512_160k_ade20k/fcn_r50-d8_512x512_160k_ade20k_20200615_100713-4edbc3b4.pth,fcn_r50-d8_512x512_160k_ade20k_20200615_100713-4edbc3b4.pth,configs/fcn/fcn_r50-d8_512x512_160k_ade20k.py
+3,https://download.openmmlab.com/mmsegmentation/v0.5/fcn/fcn_r101-d8_512x512_160k_ade20k/fcn_r101-d8_512x512_160k_ade20k_20200615_105816-fd192bd5.pth,fcn_r101-d8_512x512_160k_ade20k_20200615_105816-fd192bd5.pth,configs/fcn/fcn_r101-d8_512x512_160k_ade20k.py

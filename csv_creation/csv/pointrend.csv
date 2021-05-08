@@ -1,0 +1,3 @@
+,checkpoint_link,checkpoint_file,config_file
+0,https://download.openmmlab.com/mmsegmentation/v0.5/point_rend/pointrend_r50_512x512_160k_ade20k/pointrend_r50_512x512_160k_ade20k_20200807_232644-ac3febf2.pth,pointrend_r50_512x512_160k_ade20k_20200807_232644-ac3febf2.pth,configs/point_rend/pointrend_r50_512x512_160k_ade20k.py
+1,https://download.openmmlab.com/mmsegmentation/v0.5/point_rend/pointrend_r101_512x512_160k_ade20k/pointrend_r101_512x512_160k_ade20k_20200808_030852-8834902a.pth,pointrend_r101_512x512_160k_ade20k_20200808_030852-8834902a.pth,configs/point_rend/pointrend_r101_512x512_160k_ade20k.py

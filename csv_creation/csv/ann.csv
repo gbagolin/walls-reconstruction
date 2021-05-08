@@ -1,0 +1,5 @@
+,checkpoint_link,checkpoint_file,config_file
+0,https://download.openmmlab.com/mmsegmentation/v0.5/ann/ann_r50-d8_512x512_80k_ade20k/ann_r50-d8_512x512_80k_ade20k_20200615_014818-26f75e11.pth,ann_r50-d8_512x512_80k_ade20k_20200615_014818-26f75e11.pth,configs/ann/ann_r50-d8_512x512_80k_ade20k.py
+1,https://download.openmmlab.com/mmsegmentation/v0.5/ann/ann_r101-d8_512x512_80k_ade20k/ann_r101-d8_512x512_80k_ade20k_20200615_014818-c0153543.pth,ann_r101-d8_512x512_80k_ade20k_20200615_014818-c0153543.pth,configs/ann/ann_r101-d8_512x512_80k_ade20k.py
+2,https://download.openmmlab.com/mmsegmentation/v0.5/ann/ann_r50-d8_512x512_160k_ade20k/ann_r50-d8_512x512_160k_ade20k_20200615_231733-892247bc.pth,ann_r50-d8_512x512_160k_ade20k_20200615_231733-892247bc.pth,configs/ann/ann_r50-d8_512x512_160k_ade20k.py
+3,https://download.openmmlab.com/mmsegmentation/v0.5/ann/ann_r101-d8_512x512_160k_ade20k/ann_r101-d8_512x512_160k_ade20k_20200615_231733-955eb1ec.pth,ann_r101-d8_512x512_160k_ade20k_20200615_231733-955eb1ec.pth,configs/ann/ann_r101-d8_512x512_160k_ade20k.py

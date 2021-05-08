@@ -1,0 +1,5 @@
+,checkpoint_link,checkpoint_file,config_file
+0,https://download.openmmlab.com/mmsegmentation/v0.5/gcnet/gcnet_r50-d8_512x512_80k_ade20k/gcnet_r50-d8_512x512_80k_ade20k_20200614_185146-91a6da41.pth,gcnet_r50-d8_512x512_80k_ade20k_20200614_185146-91a6da41.pth,configs/gcnet/gcnet_r50-d8_512x512_80k_ade20k.py
+1,https://download.openmmlab.com/mmsegmentation/v0.5/gcnet/gcnet_r101-d8_512x512_80k_ade20k/gcnet_r101-d8_512x512_80k_ade20k_20200615_020811-c3fcb6dd.pth,gcnet_r101-d8_512x512_80k_ade20k_20200615_020811-c3fcb6dd.pth,configs/gcnet/gcnet_r101-d8_512x512_80k_ade20k.py
+2,https://download.openmmlab.com/mmsegmentation/v0.5/gcnet/gcnet_r50-d8_512x512_160k_ade20k/gcnet_r50-d8_512x512_160k_ade20k_20200615_224122-d95f3e1f.pth,gcnet_r50-d8_512x512_160k_ade20k_20200615_224122-d95f3e1f.pth,configs/gcnet/gcnet_r50-d8_512x512_160k_ade20k.py
+3,https://download.openmmlab.com/mmsegmentation/v0.5/gcnet/gcnet_r101-d8_512x512_160k_ade20k/gcnet_r101-d8_512x512_160k_ade20k_20200615_225406-615528d7.pth,gcnet_r101-d8_512x512_160k_ade20k_20200615_225406-615528d7.pth,configs/gcnet/gcnet_r101-d8_512x512_160k_ade20k.py

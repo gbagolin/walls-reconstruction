@@ -1,0 +1,5 @@
+,checkpoint_link,checkpoint_file,config_file
+0,https://download.openmmlab.com/mmsegmentation/v0.5/psanet/psanet_r50-d8_512x512_80k_ade20k/psanet_r50-d8_512x512_80k_ade20k_20200614_144141-835e4b97.pth,psanet_r50-d8_512x512_80k_ade20k_20200614_144141-835e4b97.pth,configs/psanet/psanet_r50-d8_512x512_80k_ade20k.py
+1,https://download.openmmlab.com/mmsegmentation/v0.5/psanet/psanet_r101-d8_512x512_80k_ade20k/psanet_r101-d8_512x512_80k_ade20k_20200614_185117-1fab60d4.pth,psanet_r101-d8_512x512_80k_ade20k_20200614_185117-1fab60d4.pth,configs/psanet/psanet_r101-d8_512x512_80k_ade20k.py
+2,https://download.openmmlab.com/mmsegmentation/v0.5/psanet/psanet_r50-d8_512x512_160k_ade20k/psanet_r50-d8_512x512_160k_ade20k_20200615_161258-148077dd.pth,psanet_r50-d8_512x512_160k_ade20k_20200615_161258-148077dd.pth,configs/psanet/psanet_r50-d8_512x512_160k_ade20k.py
+3,https://download.openmmlab.com/mmsegmentation/v0.5/psanet/psanet_r101-d8_512x512_160k_ade20k/psanet_r101-d8_512x512_160k_ade20k_20200615_161537-dbfa564c.pth,psanet_r101-d8_512x512_160k_ade20k_20200615_161537-dbfa564c.pth,configs/psanet/psanet_r101-d8_512x512_160k_ade20k.py

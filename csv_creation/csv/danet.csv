@@ -1,0 +1,5 @@
+,checkpoint_link,checkpoint_file,config_file
+0,https://download.openmmlab.com/mmsegmentation/v0.5/danet/danet_r50-d8_512x512_80k_ade20k/danet_r50-d8_512x512_80k_ade20k_20200615_015125-edb18e08.pth,danet_r50-d8_512x512_80k_ade20k_20200615_015125-edb18e08.pth,configs/danet/danet_r50-d8_512x512_80k_ade20k.py
+1,https://download.openmmlab.com/mmsegmentation/v0.5/danet/danet_r101-d8_512x512_80k_ade20k/danet_r101-d8_512x512_80k_ade20k_20200615_015126-d0357c73.pth,danet_r101-d8_512x512_80k_ade20k_20200615_015126-d0357c73.pth,configs/danet/danet_r101-d8_512x512_80k_ade20k.py
+2,https://download.openmmlab.com/mmsegmentation/v0.5/danet/danet_r50-d8_512x512_160k_ade20k/danet_r50-d8_512x512_160k_ade20k_20200616_082340-9cb35dcd.pth,danet_r50-d8_512x512_160k_ade20k_20200616_082340-9cb35dcd.pth,configs/danet/danet_r50-d8_512x512_160k_ade20k.py
+3,https://download.openmmlab.com/mmsegmentation/v0.5/danet/danet_r101-d8_512x512_160k_ade20k/danet_r101-d8_512x512_160k_ade20k_20200616_082348-23bf12f9.pth,danet_r101-d8_512x512_160k_ade20k_20200616_082348-23bf12f9.pth,configs/danet/danet_r101-d8_512x512_160k_ade20k.py

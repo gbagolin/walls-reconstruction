@@ -1,0 +1,5 @@
+,checkpoint_link,checkpoint_file,config_file
+0,https://download.openmmlab.com/mmsegmentation/v0.5/encnet/encnet_r50-d8_512x512_80k_ade20k/encnet_r50-d8_512x512_80k_ade20k_20200622_042412-44b46b04.pth,encnet_r50-d8_512x512_80k_ade20k_20200622_042412-44b46b04.pth,configs/encnet/encnet_r50-d8_512x512_80k_ade20k.py
+1,https://download.openmmlab.com/mmsegmentation/v0.5/encnet/encnet_r101-d8_512x512_80k_ade20k/encnet_r101-d8_512x512_80k_ade20k_20200622_101128-dd35e237.pth,encnet_r101-d8_512x512_80k_ade20k_20200622_101128-dd35e237.pth,configs/encnet/encnet_r101-d8_512x512_80k_ade20k.py
+2,https://download.openmmlab.com/mmsegmentation/v0.5/encnet/encnet_r50-d8_512x512_160k_ade20k/encnet_r50-d8_512x512_160k_ade20k_20200622_101059-b2db95e0.pth,encnet_r50-d8_512x512_160k_ade20k_20200622_101059-b2db95e0.pth,configs/encnet/encnet_r50-d8_512x512_160k_ade20k.py
+3,https://download.openmmlab.com/mmsegmentation/v0.5/encnet/encnet_r101-d8_512x512_160k_ade20k/encnet_r101-d8_512x512_160k_ade20k_20200622_073348-7989641f.pth,encnet_r101-d8_512x512_160k_ade20k_20200622_073348-7989641f.pth,configs/encnet/encnet_r101-d8_512x512_160k_ade20k.py

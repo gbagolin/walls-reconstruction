@@ -12,4 +12,8 @@ Furthermore it reconstructs the scene using point cloud, and then extract walls 
 This folder contains all needed to test different semantic segmentation network. 
 Furthermore it contains the code needed to segment the houses dataset all. 
 
+### IoU metric
+
+Contains the code to calculate the jaccard distance for each dataset. 
+
 

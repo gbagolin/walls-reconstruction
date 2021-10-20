@@ -1,3 +1,7 @@
+### Report
+
+To have an idea of the project, please read the report.pdf, where picture of the wall reconstruction and 3D house reconstruction are also available. 
+
 ### CSV Creation
 
 This folder contains the code used to generate csv for each network. 
